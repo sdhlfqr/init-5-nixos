@@ -1,1 +1,1 @@
-# NixOS Configuration and Home-Manager Flake
+# init-5: NixOS Configuration and Home-Manager Flake
