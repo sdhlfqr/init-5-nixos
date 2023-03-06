@@ -1,0 +1,3 @@
+[submodule "profiles/vorador"]
+	path = profiles/vorador
+	url = git@github.com:sdhlfqr/init-5-nixos-vorador-profile.git
